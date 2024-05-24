@@ -24,22 +24,7 @@ const books = [
   { title: "The Picture of Dorian Gray", author: "Oscar Wilde", genre: "fiction", published: false }
 ];
 
-
-ESERCIZIO 2
-Stampare nel terminale un triangolo di asterischi di lato n di diverse tipologie :
--
-*
-** 
-*** 
-****
--
-****
-*** 
-** 
-*
-
-
-ESERICIZIO 3
+ESERICIZIO 2
 Scrivi una funzione calculatePartyExperience che prende in input un array di membri del party 
 e restituisce il totale dei punti esperienza (XP) guadagnati dal party dopo aver completato una missione.
 
